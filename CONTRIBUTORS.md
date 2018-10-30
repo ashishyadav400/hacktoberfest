@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashish Yadav](https://github.com/ashishyadav400)
+- Place: Pune, India
+- Bio: Web developer PHP and Python
+- Github: [Ashish Yadav](https://github.com/ashishyadav400)
